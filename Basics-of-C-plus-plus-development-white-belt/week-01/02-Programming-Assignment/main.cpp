@@ -10,7 +10,8 @@ int main() {
     string a;
     string b;
     string c;
-    cin >> a >> b >> c;
+    string g;
+	cin >> a >> b >> c;
     
     vector<string> words = {a, b, c};
     sort(begin(words), end(words));
