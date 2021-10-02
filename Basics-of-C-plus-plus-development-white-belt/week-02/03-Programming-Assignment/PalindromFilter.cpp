@@ -24,7 +24,7 @@ int main() {
     int n;
     cin >> n;
     vector<string> total;
-    
+
     total = PalindromFilter(v, n);
     for (auto t : total) {
         cout << t << " ";
