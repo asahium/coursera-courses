@@ -1,3 +1,1 @@
-# coursera-cpp
-
-Основы разработки на C++: белый пояс
+# coursera solutions
